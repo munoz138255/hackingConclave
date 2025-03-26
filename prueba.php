@@ -1,1 +1,1 @@
-<?php echo "Adios" ?>
+<?php echo "hasta luego" ?>
